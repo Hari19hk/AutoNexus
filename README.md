@@ -1,4 +1,4 @@
-# AutoNexus
+# Autosphere
 
 **An end-to-end AI-powered platform that transforms vehicle telemetry into actionable insights, automated alerts, and streamlined service workflows—from anomaly detection to service closure.**
 
